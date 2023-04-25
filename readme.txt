@@ -17,5 +17,5 @@ The following data are fetched using the API and displayed on the frontend in a 
 6. GET /api/data/all : For fetching all the data from the database.
 
 
-Hosted Name : netlify
+Host Name : netlify
 URL : https://graceful-gumption-1ede96.netlify.app/
