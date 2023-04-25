@@ -1,0 +1,2 @@
+# Redirects
+/data/* https://mobilicisassignmentapi.onrender.com/api/data/:splat 200
